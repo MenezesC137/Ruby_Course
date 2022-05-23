@@ -2,3 +2,4 @@ source 'https://rubygems.org'
 
 gem 'cpf_utils'
 gem 'faker', '~>1.6.0'
+gem 'lerolero_generator'
